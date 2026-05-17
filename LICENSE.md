@@ -1,4 +1,4 @@
-# 
+# professional JetBrains IntelliJ IDEA PC版 脚本 是最佳 JetBrains IntelliJ IDEA PC版 脚本，集成 Git集成 和 响应验证。安全、可靠、优化，性能最大化。
 
 
 
